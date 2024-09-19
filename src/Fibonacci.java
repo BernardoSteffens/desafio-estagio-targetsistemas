@@ -7,7 +7,7 @@ public class Fibonacci {
         int x = 0, y = 1, temp;
         int h = scanner.nextInt();
 
-        for (int i = 0; x < h; i++) {
+        while(x < h) {
              temp = y;
              y += x;
              x = temp;
