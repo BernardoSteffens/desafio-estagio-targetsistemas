@@ -58,4 +58,4 @@ f) 2, 10, 12, 16, 17, 18, 19, ____
 ---
 
 ## Questão 5
-Não consegui pensar em uma solução.
+Basta ligar o primeiro interruptor, deixar por um tempo, após isso desliga o primeiro e liga o segundo, nesse momento você vai a primeira sala, se a luz estiver acessa, essa é a lampada do segundo interruptor que está ligado, se não estiver acessa, mas estiver quente, é do primeiro, caso a lampada esteja apagada e fria é do terceiro interruptor que não foi ligado, descoberta a primeira, apenas ir para a proxima sala e ver em qual se encaixa, tendo descoberto duas, vai restar apenas um interruptor, que é o da sala em que você estava.
