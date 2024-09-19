@@ -1,4 +1,4 @@
-# Desafio de Programação
+# Desafio de Programação - Target Sistemas
 
 ## Questão 1
 Dado a sequência de Fibonacci, que se inicia por  e 1, onde o próximo valor sempre será a soma dos 2 valores anteriores (exemplo: , 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem de sua escolha que, ao ser informado um número, calcule a sequência de Fibonacci e retorne uma mensagem indicando se o número informado pertence ou não à sequência.
